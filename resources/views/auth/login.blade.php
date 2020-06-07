@@ -3,6 +3,7 @@
 @section('content')
 <div class="signinPage">
     <div class="container">
+        <!-- <h2 class="title">todoリストにログイン</h2> -->
         <h2 class="title text-center">todoリストにログイン</h2>
         <div class="text-center m-3">or</div>
         <div class="text-center">
