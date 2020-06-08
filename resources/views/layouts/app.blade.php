@@ -18,7 +18,7 @@
     <!-- awesome fonts -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 
-    <!-- boostrap -->
+    <!-- bootstrap -->
     <!-- CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <!-- JS -->
@@ -27,7 +27,7 @@
 </head>
 <body>
     <!-- ログインしている場合のみヘッダを表示する -->
-    @auth
+    @auth <!-- ユーザーが認証しているかどうかを判断させることができる -->
     <header class="header">
         <nav class="nav">
             <ul class="header_menu">
