@@ -3,9 +3,9 @@
 @section('content')
 <div class="signupPage">
     <div class="titleArea">
-        <h1 class="text-center">アカウントを新規作成</h1>
-        <div class="text-center m-3">or</div>
-            <p class="text-center acountPage_link">
+        <h1>アカウントを新規作成</h1>
+        <div class=" m-3">or</div>
+            <p class=" acountPage_link">
                 <a href="{{ route('login') }}">アカウントにサインイン</a>
             </p>
         </div>
