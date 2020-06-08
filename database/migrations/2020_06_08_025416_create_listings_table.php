@@ -19,6 +19,7 @@ class CreateListingsTable extends Migration
             $table->integer('user_id');
             $table->timestamps();
         });
+    }
 
     /**
      * Reverse the migrations.
