@@ -13,6 +13,8 @@
     <!-- Styles -->
     <link href="{{ asset('css/sign_in.css') }}" rel="stylesheet">
     <link href="{{ asset('css/sign_up.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/header.css') }}" rel="stylesheet">
     <!-- <link href="{{ asset('css/app.css') }}" rel="stylesheet"> -->
 
     <!-- awesome fonts -->
